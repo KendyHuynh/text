@@ -2,22 +2,6 @@
 <html>
 <head>
     <title>CV - Giới thiệu bản thân</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 20px;
-        }
-        .container {
-            max-width: 600px;
-            margin: auto;
-        }
-        h1 {
-            color: #333;
-        }
-        p {
-            line-height: 1.6;
-        }
-    </style>
 </head>
 <body>
     <div class="container">
@@ -47,3 +31,4 @@
     </div>
 </body>
 </html>
+

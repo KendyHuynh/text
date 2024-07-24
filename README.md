@@ -1,23 +1,49 @@
-# CV - Giới thiệu bản thân
+# Curriculum Vitae
 
-Xin chào! Tôi là **Huỳnh Như Ý**, một lập trình viên đam mê với hơn 1 năm kinh nghiệm trong ngành phát triển phần mềm và khoa học dữ liệu.
+## Personal Information
+ | <img src="ImageCV.jpg" alt="Profile Picture" width="150" height="150" style="display:block; margin:auto;"/> |
+|:--:|
+- **Name:** Huynh Nhu Y
+- **Contact Information:** 0937781373 | huynh.nhu.y1601@gmail.com
+- **Address:** 109/47/5 Street No. 8, Linh Xuan Ward, Thu Duc District, Ho Chi Minh City, Vietnam
+---
 
-Tôi đã làm việc trên nhiều dự án thú vị, từ việc phát triển ứng dụng web đơn giản đến các hệ thống phức tạp. Tôi có kiến thức về HTML, CSS, JavaScript và các ngôn ngữ lập trình back-end như Python và Node.js.
+## Education
+- **Bachelor of Science in Data Science (Expected Graduation: End of 2024)**
+  - University of Foreign Languages - Information Technology (HUFLIT), Ho Chi Minh City, Vietnam
 
-Ngoài ra, tôi cũng có kinh nghiệm làm việc trong môi trường nhóm và có khả năng tương tác tốt với đồng nghiệp. Tôi luôn trân trọng việc học hỏi và không ngừng nâng cao kỹ năng của mình để đóng góp tốt hơn cho dự án mỗi ngày.
+---
 
-## Kỹ năng
+## Relevant Coursework
+- Data Mining
+- Machine Learning
+- Statistical Analysis
+- Data Visualization
+- Database Management
+- Big Data Technologies
 
-- Lập trình: HTML, CSS, JavaScript, Python
-- Front-end: React, Vue.js
-- Back-end: Node.js, Express, Django
-- Cơ sở dữ liệu: MongoDB, MySQL
-- Quản lý phiên bản: Git
+---
 
-## Liên hệ
+## Skills
+- **Programming Languages:** R, Python, C#, Java
+- **Web Development:** HTML, CSS, JavaScript
+- **Mobile Development:** Android Studio (Java)
+- **Database Management Systems:** SQL, MongoDB
+- **Tools & Libraries:** TensorFlow, Pandas, NumPy, Matplotlib, Scikit-learn
+- **Data Analysis and Visualization**
+- **Statistical Modeling**
 
-- Email: huynh.nhu.y1601@gmail.com
-- Điện thoại: 093 778 1373
-- Facebook cá nhân: [https://www.facebook.com/huynhnhuy0116](https://www.facebook.com/huynhnhuy0116)
+---
 
-*Cuối cùng thì đây là file để test cách sử dụng GitHub khi tôi mới bắt đầu làm quen với nó*
+## Experience
+- **E-commerce Website Project**
+- **Social Networking Mobile Application Project**
+- **Car Price Prediction Project**
+- **Customer Behavior Prediction Project based on Amazon Reviews**
+- **Big Data Analysis Project on Log Data**
+
+---
+
+## Languages
+- **Vietnamese:** Native
+- **English:** Fluent
